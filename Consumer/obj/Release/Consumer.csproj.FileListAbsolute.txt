@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Webcam pr\Consumer\bin\Release\Consumer.exe.config
+C:\Users\user\source\repos\Webcam pr\Consumer\bin\Release\Consumer.exe
+C:\Users\user\source\repos\Webcam pr\Consumer\bin\Release\Consumer.pdb
+C:\Users\user\source\repos\Webcam pr\Consumer\obj\Release\Consumer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Webcam pr\Consumer\obj\Release\Consumer.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Webcam pr\Consumer\obj\Release\Consumer.Form1.resources
+C:\Users\user\source\repos\Webcam pr\Consumer\obj\Release\Consumer.Properties.Resources.resources
+C:\Users\user\source\repos\Webcam pr\Consumer\obj\Release\Consumer.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Webcam pr\Consumer\obj\Release\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Webcam pr\Consumer\obj\Release\Consumer.exe
+C:\Users\user\source\repos\Webcam pr\Consumer\obj\Release\Consumer.pdb
